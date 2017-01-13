@@ -11,6 +11,6 @@ run above s.r script  and  save output in any file
 $ Rscript s.r > output.pdf
 
 here,
-     s.r  is downloaded file
+     s.r  is input file
      
      output.pdf  is file in which output of s.r will be saved.
