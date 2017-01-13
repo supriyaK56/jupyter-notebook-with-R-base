@@ -1,9 +1,11 @@
 # jupyter-notebook-with-R-base
 
-# for e.g 
+ for e.g 
 # s.r 
+'''
 y=seq(1,200,2)
 plot(y)
+''''
 
 
 run above s.r script  and  save output in any file  
