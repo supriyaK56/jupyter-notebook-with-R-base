@@ -9,7 +9,7 @@ plot(y)
 
 run above s.r script  and  save output in any file  
 
-$ Rscript s.r > output.pdf
+```$ Rscript s.r > output.pdf```
 
 here,
      s.r  is input file
