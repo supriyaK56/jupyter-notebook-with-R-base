@@ -1,7 +1,7 @@
 # jupyter-notebook-with-R-base
 
-for e.g 
-    s.r 
+# for e.g 
+# s.r 
 y=seq(1,200,2)
 plot(y)
 
