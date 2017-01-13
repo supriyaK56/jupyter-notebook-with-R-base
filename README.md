@@ -1,14 +1,16 @@
 # jupyter-notebook-with-R-base
 
-You can take output from jupyter notebook into .r file
-go to file->downloaded as->choose extension->click
+for e.g 
+    s.r 
+y=seq(1,200,2)
+plot(y)
 
-your file will be in downloads folder
 
-run that .r script  and save output in any file that you want using following command
+run above s.r script  and  save output in any file  
 
 $ Rscript s.r > output.pdf
 
 here,
      s.r  is downloaded file
-      output.pdf  is file in which our output will be saved.
+     
+     output.pdf  is file in which output of s.r will be saved.
