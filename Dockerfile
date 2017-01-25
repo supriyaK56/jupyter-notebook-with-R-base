@@ -1,6 +1,6 @@
 FROM ubuntu:16.04 
 MAINTAINER Supriya kanawade <supriyakanawade94@gmail.com> 
-
+EXPOSE 8888
 RUN ["apt-get", "update"]
 RUN ["apt-get", "-y", "build-dep", "libcurl4-gnutls-dev"]
 RUN ["apt-get", "install", "python3", "python3-pip", "r-base", "libcurl4-gnutls-dev", "-y"]
